@@ -11,6 +11,7 @@ namespace GitConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("this is my git demo prject");
+            Console.WriteLine("this is for second commit test");
             Console.Read();
         }
     }
